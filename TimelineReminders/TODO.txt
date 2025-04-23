@@ -1,0 +1,21 @@
+Make hide on use only cancel the shortest remaining duration reminder
+
+pkgmeta libdeflate in auraupdater
+
+Make settings window sizing dynamic
+
+Adjust reminder time when you adjust relative to dropdown
+
+Position a reminder individually (not on an anchor)
+Glow any frame
+
+
+
+IMPORT/EXPORT
+Confirm popup/text for "are you sure you want to import X reminders for Y encounter?"
+    Make sure to only import reminders relevant to the encounter currently being viewed
+    List reminders that are not being imported because incorrect encounter ID?
+By default, update existing reminders
+
+TODO
+Way to signal that the note is invalid

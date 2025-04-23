@@ -1,0 +1,17 @@
+package-as: TimelineReminders
+
+externals:
+  Libs/LibStub: https://repos.curseforge.com/wow/libstub/trunk
+  Libs/CallbackHandler-1.0: https://repos.curseforge.com/wow/callbackhandler/trunk/CallbackHandler-1.0
+  Libs/LibCustomGlow-1.0: https://github.com/Stanzilla/LibCustomGlow
+  Libs/LibGetFrame-1.0: https://github.com/mrbuds/LibGetFrame
+  Libs/LibSharedMedia-3.0: https://repos.curseforge.com/wow/libsharedmedia-3-0/trunk/LibSharedMedia-3.0
+  Libs/LibSpecialization: https://repos.curseforge.com/wow/libspecialization/trunk/LibSpecialization
+  Libs/LibDeflate: https://github.com/SafeteeWoW/LibDeflate
+  Libs/LibSerialize:
+    url: https://github.com/rossnichols/LibSerialize
+    tag: v1.0.0
+
+ignore:
+  - README.md
+  - TODO.txt

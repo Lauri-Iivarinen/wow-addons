@@ -1,0 +1,10 @@
+## Interface: 100100
+## Title: LiquidWeakAuras
+## Version: 0.0.152
+## Author: Ironi
+## IconTexture: Interface\AddOns\Liquid\Media\logo_secondary.blp
+## RequiredDeps: WeakAuras
+
+waData.lua
+aurasToDelete.lua
+LiquidWeakAuras.lua

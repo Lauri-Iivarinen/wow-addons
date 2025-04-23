@@ -1,0 +1,34 @@
+{
+  "Lua.runtime.version": "Lua 5.1",
+  "Lua.runtime.builtin": {
+    "basic": "disable",
+    "debug": "disable",
+    "io": "disable",
+    "math": "disable",
+    "os": "disable",
+    "package": "disable",
+    "string": "disable",
+    "table": "disable",
+    "utf8": "disable"
+  },
+  "Lua.workspace.library": [
+    "~\\.vscode\\extensions\\ketho.wow-api-0.17.6\\Annotations"
+  ],
+  "Lua.diagnostics.globals": [
+    "Settings",
+    "UIDropDownMenu_AddButton",
+    "DEFAULT_CHAT_FRAME",
+    "AddonCompartmentFrame",
+    "SlashCmdList",
+    "RaidNotice_AddMessage",
+    "RaidWarningFrame",
+    "CLOSE",
+    "STATICPOPUP_NUMDIALOGS",
+    "ReloadUI",
+    "PanelTemplates_DeselectTab",
+    "PanelTemplates_TabResize",
+    "PanelTemplates_SelectTab",
+    "StaticPopup_Show",
+    "CombatLog_String_SchoolString"
+  ]
+}

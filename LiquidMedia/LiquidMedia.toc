@@ -1,0 +1,11 @@
+## Interface: 100100
+## Title: LiquidMedia
+## Version: 1.1.33
+## Notes: Liquid Media Collection
+## DefaultState: enabled
+## IconTexture: Interface\AddOns\Liquid\Media\logo_secondary.blp
+## Category: Liquid
+
+libs/LibSharedMedia-3.0/LibSharedMedia-3.0.lua
+libs/LibStub/LibStub.lua
+liquidMedia.lua

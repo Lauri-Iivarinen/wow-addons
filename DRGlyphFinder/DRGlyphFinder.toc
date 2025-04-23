@@ -1,0 +1,23 @@
+## Interface: 100200
+## Title: |cff31d6bbDragonriding Glyph Finder|r
+## Author: Jaime Browne
+## Version: 1.6
+## Notes: Adds waypoints to all Dragonriding Glyphs
+## SavedVariables: STOPPED
+## Dependencies: TomTom
+## IconTexture: Interface\ICONS\ability_dragonriding_glyph01
+
+locales\locales.lua
+locales\DRGF-deDE.lua
+locales\DRGF-enUS.lua
+locales\DRGF-esES.lua
+locales\DRGF-esMX.lua
+locales\DRGF-frFR.lua
+locales\DRGF-itIT.lua
+locales\DRGF-koKR.lua
+locales\DRGF-ptBR.lua
+locales\DRGF-ruRU.lua
+locales\DRGF-zhCN.lua
+locales\DRGF-zhTW.lua
+
+DRGlyphFinder.lua

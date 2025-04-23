@@ -1,0 +1,12 @@
+lightweight tag e72ae2d1caac1a057f3cd008521a51ca130a9a08 v2.4.4
+Author:	Lown Ignitus <lownignitus@gmail.com>
+Date:	Fri Jul 2 18:31:06 2021 -0700
+
+commit e72ae2d1caac1a057f3cd008521a51ca130a9a08
+Author: Lown Ignitus <lownignitus@gmail.com>
+Date:   Fri Jul 2 18:31:06 2021 -0700
+
+    Adjustment for new tooltip layout
+    
+    Fix provided by @malyonsus
+

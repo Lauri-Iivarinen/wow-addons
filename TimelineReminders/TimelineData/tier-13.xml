@@ -1,0 +1,11 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/
+..\FrameXML\UI.xsd">
+    <Script file="Cata/Raids/DragonSoul/Morchok.lua"/>
+    <Script file="Cata/Raids/DragonSoul/Zonozz.lua"/>
+    <Script file="Cata/Raids/DragonSoul/Yorsahj.lua"/>
+    <Script file="Cata/Raids/DragonSoul/Hagara.lua"/>
+    <Script file="Cata/Raids/DragonSoul/Ultraxion.lua"/>
+    <Script file="Cata/Raids/DragonSoul/Blackhorn.lua"/>
+    <Script file="Cata/Raids/DragonSoul/SpineOfDeathwing.lua"/>
+    <Script file="Cata/Raids/DragonSoul/MadnessOfDeathwing.lua"/>
+</Ui>

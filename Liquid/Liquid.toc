@@ -1,0 +1,31 @@
+## Interface: 110100
+## Title: Liquid
+## Notes: Liquid pewpew stuff
+## Author: Ironi
+## Version: 2.36.1
+## IconTexture: Interface\AddOns\Liquid\Media\logo_secondary.blp
+## DefaultState: enabled
+## OptionalDeps: Plater, WeakAuras, LiquidWeakAuras
+## SavedVariables: LiquidDB
+## SavedVariablesPerCharacter: LiquidCharDB
+## Category: Liquid
+
+
+embeds.xml
+
+
+hardcodedconfigs.lua
+events.lua
+battletags.lua
+cacheConfigs.lua
+cooldowns.lua
+items.lua
+Liquid.lua
+characterCaching.lua
+helperFunctions.lua
+weakauras.lua
+characterNames.lua
+utility.lua
+weakauraImports.lua
+tempUnitFrames.lua
+anchorSettings.lua

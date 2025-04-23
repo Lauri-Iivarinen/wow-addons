@@ -1,0 +1,5 @@
+<Bindings>
+    <Binding name="AUIHIDEBARS" header="AUI" category="AtrocityMedia">
+      local bars, E = {1,4,5,6}, unpack(ElvUI); for _, n in pairs(bars) do local state = E.db.actionbar["bar"..n].enabled; E.db.actionbar["bar"..n].enabled = (state==false and true or false); E.ActionBars:PositionAndSizeBar("bar"..n) end
+    </Binding>
+</Bindings>

@@ -1,0 +1,6 @@
+<Bindings>
+	<Binding name="CLICK LIQUID_KEYBINDING1:Keybind" category="Liquid" description= "test"/>
+	<Binding name="CLICK LIQUID_KEYBINDING2:Keybind" category="Liquid"/>
+	<Binding name="CLICK LIQUID_KEYBINDING3:Keybind" category="Liquid"/>
+	<Binding name="CLICK LIQUID_KEYBINDING4:Keybind" category="Liquid"/>
+</Bindings>

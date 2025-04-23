@@ -1,0 +1,14 @@
+## Interface: 90100
+## Title: |cff00ff00iLvLr|r
+## X-Curse-Project-ID: 34990
+## Author: |cffffcc00JerichoHM|r
+## X-Maintainer: |cffDA70D6LownIgnitus|r Mihkael@US-Alexstrasza
+## Version: |cffFF45002.4.4|r
+## X-Date: 2021/06/30
+## X-Website: https://github.com/lownignitus/iLvLr
+## X-Contact: https://twitter.com/lownignitus
+## Notes: Tool to help gearing a character
+## Dependancies:
+## SavedVariablesPerCharacter: iLvLrSettings, iDuraState, iColourState, iRelicState
+
+iLvLr.lua
